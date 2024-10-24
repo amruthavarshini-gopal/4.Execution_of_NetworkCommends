@@ -73,4 +73,4 @@ This commands includes:
 
 ## RESULT:
 
-Thus Execution of Network commands Performed.
+Thus, the execution of network commands was performed successfully.
